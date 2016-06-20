@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\nctu_cource\104_spring\競技程式設計(二)\week09\problemb\problemb\source.cpp(26): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+e:\nctu_cource\104_spring\競技程式設計(二)\week09\problemb\problemb\source.cpp(32): warning C4018: '<' : signed/unsigned mismatch
+  ProblemB.vcxproj -> E:\NCTU_Cource\104_Spring\競技程式設計(二)\week09\ProblemB\Debug\ProblemB.exe
